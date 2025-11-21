@@ -1,12 +1,12 @@
-name = "OneClient 1.8.9 Forge [QoL]"
+name = "OneClient 1.8.9 Forge [SkyBlock]"
 author = "Polyfrost"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
 enabled = false
-category = "QoL"
-id = "qol-1.8.9-forge"
-update-url = "oneclient/generated/qol-1.8.9-forge.mrpack"
+category = "SkyBlock"
+id = "skyblock-1.8.9-forge"
+update-url = "oneclient/generated/skyblock-1.8.9-forge.mrpack"
 
 [index]
 file = "index.toml"
