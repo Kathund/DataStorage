@@ -36,6 +36,16 @@ hash = "079b886b78448b19cad941332b42e949408b9d247c3ba0ae5645f65c13c1f77b"
 metafile = true
 
 [[files]]
+file = "mods/polytime.pw.toml"
+hash = "b283f210eb8a5de715b838538c09edaac1c06143651e4e705cbcadf4655dc60b"
+metafile = true
+
+[[files]]
+file = "mods/polyweather.pw.toml"
+hash = "61ed1daa849edfa93ecab3d7b94ab688ae78d34ce33b91157b74bbcd480e0518"
+metafile = true
+
+[[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
 hash = "55be4b440b1305c2f75d4686e7b485dc0979700577bafb50a840ef4d296a10b9"
 metafile = true
