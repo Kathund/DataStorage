@@ -1,0 +1,18 @@
+name = "OneClient 1.8.9 Forge [Performance]"
+author = "Polyfrost"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+poly-format = "1"
+enabled = true
+category = "Performance"
+id = "performance-1.8.9-forge"
+update-url = "oneclient/generated/performance-1.8.9-forge.mrpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0b8a06749538405c87a148741473d34e86625cda63e7424cdedbe21f2ccda524"
+
+[versions]
+forge = "11.15.1.2318"
+minecraft = "1.8.9"
