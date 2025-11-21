@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "96c15836ec971a920775ed5b530cc87211f3c15dd7ab02d52baa9f8505e753e2"
+metafile = true
+
+[[files]]
 file = "mods/anti-dream-skin.pw.toml"
 hash = "d8bfe31a54d2eab751bcfeb23345229cdda86b8a25a73e93e9e8827025bee7c1"
 metafile = true
@@ -88,4 +93,9 @@ metafile = true
 [[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
 hash = "55be4b440b1305c2f75d4686e7b485dc0979700577bafb50a840ef4d296a10b9"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "64558166eab590db44f51f356cb0540f716d3748da82a3973fe232d09bdba141"
 metafile = true
