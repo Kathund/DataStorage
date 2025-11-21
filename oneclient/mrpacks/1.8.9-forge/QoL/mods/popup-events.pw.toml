@@ -1,4 +1,4 @@
-id = "qol"
+id = "popup_events"
 enabled = true
 hidden = false
 name = "Popup Events"

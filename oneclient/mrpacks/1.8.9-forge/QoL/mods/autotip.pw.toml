@@ -1,4 +1,4 @@
-id = "qol"
+id = "autotip"
 enabled = true
 hidden = false
 name = "AutoTip"

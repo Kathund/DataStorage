@@ -1,4 +1,4 @@
-id = "qol"
+id = "itemphysic"
 enabled = true
 hidden = false
 name = "Item Physic Lite"
