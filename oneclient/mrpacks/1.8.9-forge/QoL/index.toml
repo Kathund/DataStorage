@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c760fb9165dc7ca88a59fe30672b5806d473996adee183f4927a1bac8569b957"
+metafile = true
+
+[[files]]
+file = "mods/colorsaturation.pw.toml"
+hash = "368559425b5ee5e5b47b8eef3e2ef4ef5e5ae82fe1e3d3a6e2ff7edeae60090c"
+metafile = true
+
+[[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
 hash = "03c6bf779335d66c7b0d2f64e728cfafade2bdc5e91cff3f4fa21cc724506118"
 metafile = true
