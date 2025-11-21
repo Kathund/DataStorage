@@ -1,46 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/chatting.pw.toml"
-hash = "fb740e78dabdd4820f2ae5c5e04bd4105fb51d5976b03d7cb9d5d2d3357ead5d"
-metafile = true
-
-[[files]]
-file = "mods/craftify.pw.toml"
-hash = "6022ce0b624772f599ac45b56c2a9b7dcb64ef788fdbe759bffd9555947f62da"
-metafile = true
-
-[[files]]
-file = "mods/evergreenhud.pw.toml"
-hash = "3933409ee7ba04ba302649015daad1a7cfdea58b003ee9e944fa99b2a1f5ddeb"
-metafile = true
-
-[[files]]
-file = "mods/keystrokes.pw.toml"
-hash = "ffe17b346eef6d326ffdd9bbc12827564710ee064bbd5b263bb75f5b91d3f1b2"
-metafile = true
-
-[[files]]
-file = "mods/potioneffects.pw.toml"
-hash = "0f3f1c9d4b665bb87f8fda805a51659f0577314fbc119f30f99b9e5d92b890df"
-metafile = true
-
-[[files]]
-file = "mods/reportplus.pw.toml"
-hash = "4a4cb4fa25f18401cd2a5648361c2be3044d4fa66c0946f05434c289b4734e09"
-metafile = true
-
-[[files]]
-file = "mods/soundsubtitles.pw.toml"
-hash = "86caef8a5feb7a164a6713a88e355f7b01fc30b1497a4d39cf9d1900171c473f"
-metafile = true
-
-[[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
 hash = "03c6bf779335d66c7b0d2f64e728cfafade2bdc5e91cff3f4fa21cc724506118"
-metafile = true
-
-[[files]]
-file = "mods/vanillahud.pw.toml"
-hash = "0ea12827579faa28d32d9d6fbfd2746879ddf47dc52c4161ac497bf499a1fe1a"
 metafile = true
