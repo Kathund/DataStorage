@@ -16,6 +16,16 @@ hash = "bb15e8d7603cd57a4525ad5cfda2a6cd620c00e15bbd4391e651dbf5603fb059"
 metafile = true
 
 [[files]]
+file = "mods/oofmod.pw.toml"
+hash = "337f56c74068d80f6ea05a3675a4cc44fbfdd79d988cc297e4d36864e67fa34e"
+metafile = true
+
+[[files]]
+file = "mods/overflowparticles.pw.toml"
+hash = "9aed01829e028fb8c621e04194f2c871a881c17ebd802cd687b8492f911fa14e"
+metafile = true
+
+[[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
 hash = "55be4b440b1305c2f75d4686e7b485dc0979700577bafb50a840ef4d296a10b9"
 metafile = true
