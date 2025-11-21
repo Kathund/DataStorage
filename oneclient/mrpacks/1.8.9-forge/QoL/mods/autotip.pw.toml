@@ -6,6 +6,6 @@ filename = "Autotip-3.2 (1.8.9_forge).jar"
 side = "both"
 
 [download]
-url = "https://github.com/Kathund/DataStorage/raw/refs/heads/meow-test-branch/oneclient/mods/Autotip-3.2%20(1.8.9_forge).jar"
+url = "https://github.com/Kathund/SkyblockClient-REPO/raw/refs/heads/m/v1/mods/files/Autotip-3.2%20(1.8.9_forge).jar"
 hash-format = "sha256"
 hash = "3bf16704e61f31ca7abcced6809a3eba192e08fbfdc4d59ec0b563d2e9b75ee1"

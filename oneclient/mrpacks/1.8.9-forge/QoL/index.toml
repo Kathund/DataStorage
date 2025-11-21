@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/autotip.pw.toml"
-hash = "0630f92c67c5586c57b666f10b854cd7d5277ef9c0abbec7a45b3278eb3c1efd"
+hash = "598a9cdc6c4fb23ea26e79e6ed55ec60af54c84534e0074b78d14eb95f274ad0"
 metafile = true
 
 [[files]]
 file = "mods/blur.pw.toml"
-hash = "b370f6000a2b34fdd2bd0c7d31008739a363fb8690b83ce5eba2604bbbe4ba5d"
+hash = "36fddbc34248b32865ce0862b346f107a0cfcddb997498fb1f4ea877d1ee0ada"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-physic-lite.pw.toml"
-hash = "e954277e99771d463656fdef919418e9f5cea7ac900513f76df67d9dd70ffae9"
+hash = "73d1373bfab49873523bd3c8c3fc288dc89c998def34c5c93b8ae5a91efb7adf"
 metafile = true
 
 [[files]]
 file = "mods/level-head.pw.toml"
-hash = "4b9bd95ccc833c514bcc315eceb174e7a74afe5fc8466f4b9e6662d88f29d9dd"
+hash = "3f0b2945353a7f70f8eb5b016e5c12f47a4f14673122b361b4c225330573dea3"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/popup-events.pw.toml"
-hash = "d7f3feac1ac84664d8d404845ee0e47973fcbb604486e1d0edeb0aeab295b155"
+hash = "63723726f4497a2f0fe938bc2df636f90e6bea6238d4511b9c39b3141ea9d49a"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scrolling-everywhere.pw.toml"
-hash = "618c6b152d10db0f2b10ee81eec3f1d79e01a67b1ac82ba70bad713c39c225d9"
+hash = "4da4d66df3227dd359c22caecab9989047f854487e2b47724410a13579115a0f"
 metafile = true
 
 [[files]]
