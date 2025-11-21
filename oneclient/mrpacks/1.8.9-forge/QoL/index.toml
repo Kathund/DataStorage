@@ -26,6 +26,16 @@ hash = "9aed01829e028fb8c621e04194f2c871a881c17ebd802cd687b8492f911fa14e"
 metafile = true
 
 [[files]]
+file = "mods/polyblur.pw.toml"
+hash = "a002eaeff2927a06f0b4ce27f5da69f6f9f6bc6c5ba26bf19531be651e09127a"
+metafile = true
+
+[[files]]
+file = "mods/polynametag.pw.toml"
+hash = "079b886b78448b19cad941332b42e949408b9d247c3ba0ae5645f65c13c1f77b"
+metafile = true
+
+[[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
 hash = "55be4b440b1305c2f75d4686e7b485dc0979700577bafb50a840ef4d296a10b9"
 metafile = true
