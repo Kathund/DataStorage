@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anti-dream-skin.pw.toml"
+hash = "639208db4ef450a7f2ff61d7aee048805ad274a38773a1341fc1b3a397a5f239"
+metafile = true
+
+[[files]]
+file = "mods/autotip.pw.toml"
+hash = "547445d10e77f30fd26c9423d44682ae10ef646147d22d16715a424c80c648d4"
+metafile = true
+
+[[files]]
 file = "mods/colorsaturation.pw.toml"
 hash = "7d12c1bf424a0704ca65c3dd14c4b93974824ae96bfb67fb4d6b9aef92e17998"
 metafile = true
