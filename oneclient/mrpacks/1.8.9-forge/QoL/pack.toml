@@ -1,17 +1,17 @@
-name = "OneClient 1.8.9 Forge [SkyBlock]"
+name = "OneClient 1.8.9 Forge [QoL]"
 author = "Polyfrost"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
 enabled = false
-category = "SkyBlock"
-id = "skyblock-1.8.9-forge"
-update-url = "oneclient/generated/skyblock-1.8.9-forge.mrpack"
+category = "QoL"
+id = "qol-1.8.9-forge"
+update-url = "oneclient/generated/qol-1.8.9-forge.mrpack"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "61f0bd59b778d9ac8026d053f40a908aad1ee350b6e8814447db6e68f4993724"
+hash = "22d8259ba73c12c8da893b55f13376a15271696c177b091d2f4748cdf2b572f5"
 
 [versions]
 forge = "11.15.1.2318"
