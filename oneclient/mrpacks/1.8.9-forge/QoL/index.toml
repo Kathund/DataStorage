@@ -9,23 +9,3 @@ metafile = true
 file = "mods/anti-dream-skin.pw.toml"
 hash = "b7cc1967144ff523181afdbb62ffa8982dac7c229b90ca799a5ebe84cee3b465"
 metafile = true
-
-[[files]]
-file = "mods/autotip.pw.toml"
-hash = "fe287a877b65ec472339111d269a72546ed6cf3c1ba128dfe14181c28de63b45"
-metafile = true
-
-[[files]]
-file = "mods/blur.pw.toml"
-hash = "48ad2e8eb6f5e8263a697f31a68d7dfc4a9ddeeda433fe996015e7439bfd8d2a"
-metafile = true
-
-[[files]]
-file = "mods/colorsaturation.pw.toml"
-hash = "7d12c1bf424a0704ca65c3dd14c4b93974824ae96bfb67fb4d6b9aef92e17998"
-metafile = true
-
-[[files]]
-file = "mods/hytils.pw.toml"
-hash = "7200dee3e1983fc57da710142ed37b75b6c4aaf12a6a62fa6dbebe44c36b20b1"
-metafile = true
