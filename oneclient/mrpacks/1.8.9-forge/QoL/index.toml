@@ -29,28 +29,3 @@ metafile = true
 file = "mods/hytils.pw.toml"
 hash = "7200dee3e1983fc57da710142ed37b75b6c4aaf12a6a62fa6dbebe44c36b20b1"
 metafile = true
-
-[[files]]
-file = "mods/item-physic-lite.pw.toml"
-hash = "b6c9aab8337db58bc92b46a653ad91d3da3a16bc66c639d76fb91a22097acfc9"
-metafile = true
-
-[[files]]
-file = "mods/level-head.pw.toml"
-hash = "c589d000f3211ad176baef5467e026fd3ccc733c58e4145a3918d1aeb807d1a4"
-metafile = true
-
-[[files]]
-file = "mods/mixmetica.pw.toml"
-hash = "2e3d572cce1e9bc6de563c50b087e738f3bffbf6c2b1f7e4a18d340fd70cf54e"
-metafile = true
-
-[[files]]
-file = "mods/oofmod.pw.toml"
-hash = "0703d2dd9b33b098f8bd350fdd7c6e64cd820d8a687bdaf9796b86374f90d2e1"
-metafile = true
-
-[[files]]
-file = "mods/overflowparticles.pw.toml"
-hash = "7a3561100a1c88678a71fe0ab8a106c975273ead0087a1aec65049edafbb2e06"
-metafile = true
