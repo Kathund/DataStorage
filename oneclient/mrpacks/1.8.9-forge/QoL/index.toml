@@ -26,6 +26,16 @@ hash = "29b168cb73ffe05679c40ac4c52bb876d99155ef8f214141610dfb0a6632a147"
 metafile = true
 
 [[files]]
+file = "mods/item-physic-lite.pw.toml"
+hash = "e954277e99771d463656fdef919418e9f5cea7ac900513f76df67d9dd70ffae9"
+metafile = true
+
+[[files]]
+file = "mods/level-head.pw.toml"
+hash = "4b9bd95ccc833c514bcc315eceb174e7a74afe5fc8466f4b9e6662d88f29d9dd"
+metafile = true
+
+[[files]]
 file = "mods/mixmetica.pw.toml"
 hash = "bb15e8d7603cd57a4525ad5cfda2a6cd620c00e15bbd4391e651dbf5603fb059"
 metafile = true
@@ -58,6 +68,16 @@ metafile = true
 [[files]]
 file = "mods/polyweather.pw.toml"
 hash = "61ed1daa849edfa93ecab3d7b94ab688ae78d34ce33b91157b74bbcd480e0518"
+metafile = true
+
+[[files]]
+file = "mods/popup-events.pw.toml"
+hash = "d7f3feac1ac84664d8d404845ee0e47973fcbb604486e1d0edeb0aeab295b155"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-everywhere.pw.toml"
+hash = "618c6b152d10db0f2b10ee81eec3f1d79e01a67b1ac82ba70bad713c39c225d9"
 metafile = true
 
 [[files]]
