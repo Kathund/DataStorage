@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/reward-claim.pw.toml"
-hash = "8ee5fcb2353415d1ca11c108c7279f7154bf15e28ffd8fc5c4376ec91632e88a"
+hash = "ecc6dfa3926055fa6ffb883f56300f11e8fafb142bc4b2e3fb2e9588ce85ec98"
 metafile = true
 
 [[files]]
@@ -88,9 +88,4 @@ metafile = true
 [[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
 hash = "55be4b440b1305c2f75d4686e7b485dc0979700577bafb50a840ef4d296a10b9"
-metafile = true
-
-[[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "796201a275f50c1ca5edda2888aa1d261d2e3dd232b7e0ba83c8449686e18f12"
 metafile = true
