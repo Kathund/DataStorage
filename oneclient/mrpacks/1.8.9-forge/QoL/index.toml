@@ -36,6 +36,11 @@ hash = "86caef8a5feb7a164a6713a88e355f7b01fc30b1497a4d39cf9d1900171c473f"
 metafile = true
 
 [[files]]
+file = "mods/tnttime-oneconfig.pw.toml"
+hash = "03c6bf779335d66c7b0d2f64e728cfafade2bdc5e91cff3f4fa21cc724506118"
+metafile = true
+
+[[files]]
 file = "mods/vanillahud.pw.toml"
 hash = "0ea12827579faa28d32d9d6fbfd2746879ddf47dc52c4161ac497bf499a1fe1a"
 metafile = true
