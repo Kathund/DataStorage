@@ -76,6 +76,11 @@ hash = "d7f3feac1ac84664d8d404845ee0e47973fcbb604486e1d0edeb0aeab295b155"
 metafile = true
 
 [[files]]
+file = "mods/reward-claim.pw.toml"
+hash = "8ee5fcb2353415d1ca11c108c7279f7154bf15e28ffd8fc5c4376ec91632e88a"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scrolling-everywhere.pw.toml"
 hash = "618c6b152d10db0f2b10ee81eec3f1d79e01a67b1ac82ba70bad713c39c225d9"
 metafile = true
