@@ -4,8 +4,3 @@ hash-format = "sha256"
 file = "mods/3dskinlayers.pw.toml"
 hash = "d707c79d8e6a0a5db930def85eeb272b9f962beaa8e6df0a9168e6c3e8e6520a"
 metafile = true
-
-[[files]]
-file = "mods/anti-dream-skin.pw.toml"
-hash = "b7cc1967144ff523181afdbb62ffa8982dac7c229b90ca799a5ebe84cee3b465"
-metafile = true
