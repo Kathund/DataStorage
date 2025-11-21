@@ -5,6 +5,12 @@ name = "AutoTip"
 filename = "Autotip-3.2 (1.8.9_forge).jar"
 side = "both"
 
+[overrides]
+icon = "https://pbs.twimg.com/profile_images/809612278467153921/H0vzHBt-_400x400.jpg"
+name = "AutoTip"
+authors = ["Semx11", "2PI"]
+description = "A Forge mod for the Hypixel Network that automatically earns players free experience and coins over time. "
+
 [download]
 url = "https://github.com/Kathund/SkyblockClient-REPO/raw/refs/heads/m/v1/mods/files/Autotip-3.2%20(1.8.9_forge).jar"
 hash-format = "sha256"

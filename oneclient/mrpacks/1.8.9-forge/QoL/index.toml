@@ -2,17 +2,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/anti-dream-skin.pw.toml"
-hash = "639208db4ef450a7f2ff61d7aee048805ad274a38773a1341fc1b3a397a5f239"
+hash = "d8bfe31a54d2eab751bcfeb23345229cdda86b8a25a73e93e9e8827025bee7c1"
 metafile = true
 
 [[files]]
 file = "mods/autotip.pw.toml"
-hash = "598a9cdc6c4fb23ea26e79e6ed55ec60af54c84534e0074b78d14eb95f274ad0"
+hash = "39b8ebd7ebd2fcafdb92309896476e46fb4b5a7fc381ced922b1400c82017b30"
 metafile = true
 
 [[files]]
 file = "mods/blur.pw.toml"
-hash = "36fddbc34248b32865ce0862b346f107a0cfcddb997498fb1f4ea877d1ee0ada"
+hash = "a8a9ac038873ffe5f068c12d96a9859face257e16a6d407f9ba55b68428fca63"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-physic-lite.pw.toml"
-hash = "73d1373bfab49873523bd3c8c3fc288dc89c998def34c5c93b8ae5a91efb7adf"
+hash = "837ab85ba0f544ffb900e233467002287dde69742964d5a40d7926c4f8cb5716"
 metafile = true
 
 [[files]]
 file = "mods/level-head.pw.toml"
-hash = "3f0b2945353a7f70f8eb5b016e5c12f47a4f14673122b361b4c225330573dea3"
+hash = "cbd27a732bf8f017a6146673716d7ef123c62c80db8ee0576b06bbca10a5938f"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/popup-events.pw.toml"
-hash = "63723726f4497a2f0fe938bc2df636f90e6bea6238d4511b9c39b3141ea9d49a"
+hash = "a772ab2440a383721cd9ef95b6f1bb74971837440d85fc38efc97a264f7a75c6"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scrolling-everywhere.pw.toml"
-hash = "4da4d66df3227dd359c22caecab9989047f854487e2b47724410a13579115a0f"
+hash = "505a7a98b299b189b6c570b7734d92b7d3ba9fcb8ddfbafda8cd8a1bc05fddef"
 metafile = true
 
 [[files]]
