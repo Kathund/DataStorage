@@ -89,3 +89,8 @@ metafile = true
 file = "mods/tnttime-oneconfig.pw.toml"
 hash = "55be4b440b1305c2f75d4686e7b485dc0979700577bafb50a840ef4d296a10b9"
 metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "796201a275f50c1ca5edda2888aa1d261d2e3dd232b7e0ba83c8449686e18f12"
+metafile = true
