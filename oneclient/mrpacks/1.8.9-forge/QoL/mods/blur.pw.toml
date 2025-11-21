@@ -6,6 +6,6 @@ filename = "Blur-MC1.8.9-1.0.4-2.jar"
 side = "both"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar"
+url = "https://github.com/Kathund/DataStorage/raw/refs/heads/meow-test-branch/oneclient/mods/Blur-MC1.8.9-1.0.4-2.jar"
 hash-format = "sha256"
 hash = "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db"

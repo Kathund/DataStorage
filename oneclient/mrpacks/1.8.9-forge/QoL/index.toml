@@ -6,8 +6,13 @@ hash = "639208db4ef450a7f2ff61d7aee048805ad274a38773a1341fc1b3a397a5f239"
 metafile = true
 
 [[files]]
+file = "mods/autotip.pw.toml"
+hash = "0630f92c67c5586c57b666f10b854cd7d5277ef9c0abbec7a45b3278eb3c1efd"
+metafile = true
+
+[[files]]
 file = "mods/blur.pw.toml"
-hash = "6625a4dc3271bce00d965999e5fca6c66b2c66dd5dbe9c4c323ed18fa6c21441"
+hash = "b370f6000a2b34fdd2bd0c7d31008739a363fb8690b83ce5eba2604bbbe4ba5d"
 metafile = true
 
 [[files]]
