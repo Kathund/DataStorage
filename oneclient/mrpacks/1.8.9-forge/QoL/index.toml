@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/colorsaturation.pw.toml"
-hash = "368559425b5ee5e5b47b8eef3e2ef4ef5e5ae82fe1e3d3a6e2ff7edeae60090c"
+hash = "7d12c1bf424a0704ca65c3dd14c4b93974824ae96bfb67fb4d6b9aef92e17998"
 metafile = true
 
 [[files]]
@@ -17,5 +17,5 @@ metafile = true
 
 [[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
-hash = "03c6bf779335d66c7b0d2f64e728cfafade2bdc5e91cff3f4fa21cc724506118"
+hash = "55be4b440b1305c2f75d4686e7b485dc0979700577bafb50a840ef4d296a10b9"
 metafile = true
