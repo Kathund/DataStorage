@@ -1,5 +1,5 @@
 const fs = require("fs");
-const toml = require("toml");
+const toml = require("@iarna/toml");
 
 const errors = [];
 
@@ -9,6 +9,11 @@ function checkMod(file) {
 
   if (!parsed.id) {
     errors.push(`${file} doesn't have an id?`);
+    return null;
+  }
+
+  if (!parsed.filename || !parsed.filename.endsWith(".jar")) {
+    errors.push(`${file} invalid mod name`);
     return null;
   }
 

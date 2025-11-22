@@ -8,7 +8,7 @@ side = "both"
 [overrides]
 icon = "https://media.forgecdn.net/avatars/thumbnails/208/556/64/64/636975700125327342.png"
 name = "Smooth Scrolling Everywhere"
-authors = ["shedaniel"]
+authors = [ "shedaniel" ]
 description = "Adds smooth scrolling to every list."
 
 [download]

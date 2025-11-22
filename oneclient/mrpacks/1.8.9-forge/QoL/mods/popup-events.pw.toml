@@ -8,7 +8,7 @@ side = "both"
 [overrides]
 icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/sk1er.png?raw=true"
 name = "Popup Events"
-authors = ["Sk1er LLC"]
+authors = [ "Sk1er LLC" ]
 description = "Swiftly confirm a type of supported event on Hypixel."
 
 [download]

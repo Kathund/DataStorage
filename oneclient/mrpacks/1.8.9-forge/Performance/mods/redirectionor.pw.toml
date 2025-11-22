@@ -8,7 +8,7 @@ side = "both"
 [overrides]
 icon = "https://media.forgecdn.net/avatars/thumbnails/870/997/64/64/638288157013875576.png"
 name = "Redirectionor [Retro]"
-authors = ["Hileb"]
+authors = [ "Hileb" ]
 description = "Avoid Enum values allocation in codes and improve game performance."
 
 [download]

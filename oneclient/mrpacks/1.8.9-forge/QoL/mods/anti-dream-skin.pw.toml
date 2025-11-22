@@ -7,7 +7,7 @@ side = "both"
 
 [overrides]
 name = "Anti Dream Skin"
-authors = ["Moulberry"]
+authors = [ "Moulberry" ]
 description = "Removes Dream skins from Minecraft"
 
 [download]

@@ -8,8 +8,8 @@ side = "both"
 [overrides]
 icon = "https://pbs.twimg.com/profile_images/809612278467153921/H0vzHBt-_400x400.jpg"
 name = "AutoTip"
-authors = ["Semx11", "2PI"]
-description = "A Forge mod for the Hypixel Network that automatically earns players free experience and coins over time. "
+authors = [ "Semx11", "2PI" ]
+description = "A Forge mod for the Hypixel Network that automatically earns players free experience and coins over time."
 
 [download]
 url = "https://static.sk1er.club/repo/mods/autotip/3.1.1/1.8.9_forge/Autotip-3.1.1%20(1.8.9_forge).jar"

@@ -8,7 +8,7 @@ side = "both"
 [overrides]
 icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/skytils.png?raw=true"
 name = "Optifine"
-authors = ["sp614x"]
+authors = [ "sp614x" ]
 description = "Improves your game performance and lets you configure the graphics. Required by most mods and texture packs."
 
 [download]

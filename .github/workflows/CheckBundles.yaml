@@ -26,7 +26,7 @@ jobs:
         run: pnpm i
 
   CheckBundles:
-    name: Update and Generate Bundles
+    name: Check Bundles are correctly formatted
     needs: [pnpm]
     runs-on: ubuntu-latest
     steps:
