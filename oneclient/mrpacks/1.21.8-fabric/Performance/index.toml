@@ -121,13 +121,8 @@ hash = "6a11f24debd05247a8df11859d78ace5c775fd82e8b8ae27b1ce3a8bc73234b1"
 metafile = true
 
 [[files]]
-file = "mods/modenfix.pw.toml"
-hash = "4d823a03894ddfd10cfb64d7ee77321a03d8799ed5ff04b5ac02985612223e67"
-metafile = true
-
-[[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "9772a77861c3b35656687ef36b534f28e0f009ed84de1de9c5b3f62c3fcd0aa7"
+hash = "91feebf3cfdaaf75e087217d59d0a39fef3efe86caaf5f03c46cda1198402381"
 metafile = true
 
 [[files]]

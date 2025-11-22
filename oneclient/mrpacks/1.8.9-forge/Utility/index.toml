@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/block-overlay.pw.toml"
-hash = "dcd66ae82a5c14b47d314a2e4a969210994774872951624313f91b50186df46d"
+hash = "e2741ec7111d730813d48421ee74e1df28517bb78dd74817f76a968db849c352"
 metafile = true
 
 [[files]]
@@ -22,12 +22,12 @@ metafile = true
 
 [[files]]
 file = "mods/hypixel-autocomplete.pw.toml"
-hash = "3a2ff47761997f881f0449874a26ffcea27e9f7af622f6d15d05f758e7614da3"
+hash = "e28c1c9f4b590949f7fbe9a7119d5665a1d21d4bd44a6350c9ce9ae5ca368850"
 metafile = true
 
 [[files]]
 file = "mods/nick-hider.pw.toml"
-hash = "e393648ee8842ddf8c8b85dfa6c956c60035985a2a8ec2374afbf484aa432980"
+hash = "0c2b4dd15729a2dd1cb71f4243f9656c5b2b542e7ded4b5565e5000d4d5dc471"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-manager.pw.toml"
-hash = "eb32a3327d9425d9cfd3c1bdcb659d1b6b1e429ceedd0aacbf9d56d48c029446"
+hash = "1dcccb38a8419326225a16e0355ec7cdfefe3c430154f3a9c8d54a9557696f5e"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/scrollable-tooltips.pw.toml"
-hash = "68c320d3f141c4300d35b67ec25474c35f64bea872292bf05db051279f1b974e"
+hash = "afdff490d7e8c2887cd8635447c27c74ea5b65c31d4516ac6dd361d01cdccbf8"
 metafile = true
 
 [[files]]

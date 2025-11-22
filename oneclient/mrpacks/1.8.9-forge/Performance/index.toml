@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "1ea405ed383e80de1f675581c297525aba51e73aeb7bcc4657b5240531a474c4"
+hash = "1631cd4bec02eca4582e82878bff760d8bb7399d3963064ff1f2a280b3a44e8e"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirectionor.pw.toml"
-hash = "211180c819e1f507cc842ed04469909836d78c1d913c7623951730c420491786"
+hash = "0a29de20eefd5156e89b39378d2a6d26e61c7dd544d94a4de49b495ce42bc6eb"
 metafile = true
 
 [[files]]

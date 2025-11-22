@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/scrollable-tooltips.pw.toml"
-hash = "1d60a9a4e2288748fd19952df849a460b784fba245a1d83d7817c5e460ec0e1e"
+hash = "82ab4430b9290d4748599a3bf6e3408bf83044376787437452069632ada9a742"
 metafile = true
 
 [[files]]
