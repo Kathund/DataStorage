@@ -12,6 +12,6 @@ authors = ["tterrag1098"]
 description = "Adds a blur effect to all your GUIs."
 
 [download]
-url = "https://github.com/Kathund/SkyblockClient-REPO/raw/refs/heads/m/v1/mods/files/Blur-MC1.8.9-1.0.4-2.jar"
+url = "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/v1/mods/files/Blur-MC1.8.9-1.0.4-2.jar"
 hash-format = "sha256"
 hash = "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db"

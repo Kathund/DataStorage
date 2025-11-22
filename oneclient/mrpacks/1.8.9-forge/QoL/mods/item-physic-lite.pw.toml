@@ -12,6 +12,6 @@ authors = ["CreativeMD"]
 description = "Makes dropped items have realistic physics."
 
 [download]
-url = "https://github.com/Kathund/SkyblockClient-REPO/raw/refs/heads/m/v1/mods/files/ItemPhysic%20Lite%201.3%20mc1.8.9.jar"
+url = "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/v1/mods/files/ItemPhysic%20Lite%201.3%20mc1.8.9.jar"
 hash-format = "sha256"
 hash = "4178c32389ec9b7cd75b7b110be5715475ea1be00f649ec0f728e5169a0f650a"

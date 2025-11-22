@@ -19,10 +19,34 @@ for (const version of versions) {
     const mods = fs.readdirSync(`./mrpacks/${version}/${bundle}/mods`);
     for (const mod of mods) {
       if (!mod.endsWith(".toml")) {
-        console.log(`./mrpacks/${version}/${bundle}/mods/${mod} - Skipped`);
-        return
+        console.log(`${version}/${bundle} - Will not work because it contains a jar file`);
+        return;
       }
       checkMod(`./mrpacks/${version}/${bundle}/mods/${mod}`);
     }
   }
 }
+
+/*
+
+1.8.9 forge - hud - works
+1.8.9 forge - performance - works
+1.8.9 forge - pvp - works
+1.8.9 forge - qol - works
+1.8.9 forge - skyblock - works
+1.8.9 forge - utility - works
+
+1.21.1 fabric - hud - works
+1.21.1 fabric - performance - Doesn't show up - UNKNOWN
+1.21.1 fabric - pvp - works
+1.21.1 fabric - qol - works
+1.21.1 fabric - utility - works
+
+1.21.8 fabric - hud - works
+1.21.8 fabric - performance - Doesn't show up - Has a jar file
+1.21.8 fabric - pvp - works
+1.21.8 fabric - qol - works
+1.21.8 fabric - skyblock - works
+1.21.8 fabric - utility - works
+
+*/
