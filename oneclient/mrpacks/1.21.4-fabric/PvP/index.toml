@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a6e5ace0e7cd575727b845fa108ed2957dad8d1434b9e0bce6d0008f62d9acc4"
+metafile = true
+
+[[files]]
+file = "mods/effecttimerplus.pw.toml"
+hash = "aebdcc8861eec4e37dbb4236d1db5c58809d642fbf2aa406a52f2452f3a0515b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e70d2b88d012a1ad69939d11cd3191d707f3b55123abbe7dbc33dac04878ea7d"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "b55c03069f5c476e47f04db6c24d8de9edaa83185ad98b81876222a5e83a9bec"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "694bb9fa9f3036c9cd83df58e931e11da7928079050926f04fc836fb00bd57c4"
+metafile = true
+
+[[files]]
+file = "mods/no-ones-view-model.pw.toml"
+hash = "644365ffc83df33904982450dc383f76b3290406961f0dbe397e6ac4fba231e4"
+metafile = true
+
+[[files]]
+file = "mods/shaketweaks.pw.toml"
+hash = "ae26f6b04d2c513a8f4e73bba98fdce7055e28c173e9afbe1db1bec134d18cf4"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "5e2b3f778ceb1ec00bd5f771f1d82a9cc5cdb5aa428e28b66b855616b2247a24"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "635edeb097ceae0707786622f21bffa9e9e1e54dc39d9198908b6e3ed27f0b00"
+metafile = true

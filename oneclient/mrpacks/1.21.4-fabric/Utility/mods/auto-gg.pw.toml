@@ -1,0 +1,16 @@
+id = "IC5fUZ7S"
+enabled = true
+hidden = false
+name = "Auto GG"
+filename = "AutoGG-2024.12.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IC5fUZ7S/versions/fwVmAnYk/AutoGG-2024.12.7.jar"
+hash-format = "sha512"
+hash = "0d53e74ad012861edcdcfcf897ffd81748bd20d427b11a869698a5a10d55a43eeef23e702385ee43a8a9fb76c70fc69500c876e8c0efbbe03f2b743be610e7a1"
+
+[update]
+[update.modrinth]
+mod-id = "IC5fUZ7S"
+version = "fwVmAnYk"

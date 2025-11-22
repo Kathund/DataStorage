@@ -1,0 +1,16 @@
+id = "1RCjAAcr"
+enabled = true
+hidden = false
+name = "WynnBuild"
+filename = "WynnBuild-2.0.5+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1RCjAAcr/versions/pkanoHNO/WynnBuild-2.0.5%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "097bdcaaba5292e30a010e365e1ef53c370c9fffc1fda3d34126d049fd5d43931945943b729167d534ed78a7bf47080fe6125c167bc1e57a82d85d0b1286260b"
+
+[update]
+[update.modrinth]
+mod-id = "1RCjAAcr"
+version = "pkanoHNO"

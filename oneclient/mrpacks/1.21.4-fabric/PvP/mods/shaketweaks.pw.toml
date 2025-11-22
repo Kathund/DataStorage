@@ -1,0 +1,16 @@
+id = "plzVz20Z"
+enabled = true
+hidden = false
+name = "Shake Tweaks"
+filename = "shaketweaks-1.2.0+1.21.3-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/plzVz20Z/versions/J3FTLsPE/shaketweaks-1.2.0%2B1.21.3-fabric.jar"
+hash-format = "sha512"
+hash = "ae7ee7f4c3993189a101778ea5fd9978d52385dffc3cf7f04542b82d1e932ade32dd6470913615988d0642147f8172b3e0c47be4412ae293e5d5f47a494c553d"
+
+[update]
+[update.modrinth]
+mod-id = "plzVz20Z"
+version = "J3FTLsPE"

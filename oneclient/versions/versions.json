@@ -23,6 +23,11 @@
                     "tags": ["PvP", "Survival"]
                 },
                 {
+                    "minor_version": 4,
+                    "loader": "fabric",
+                    "tags": ["PvP", "Wynncraft", "Survival"]
+                },
+                {
                     "minor_version": 8,
                     "loader": "fabric",
                     "tags": ["PvP", "SkyBlock", "Survival"]

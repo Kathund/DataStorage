@@ -1,0 +1,16 @@
+id = "6z01GnNz"
+enabled = true
+hidden = false
+name = "Wynncraft Dynamic Weather"
+filename = "wynncraft-dynamic-weather-1.1.0-beta-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6z01GnNz/versions/7Sn0LZxI/wynncraft-dynamic-weather-1.1.0-beta-1.21.4.jar"
+hash-format = "sha512"
+hash = "5f977e8eb7ca7c8a12855ddbcb68d9dbcfa66ee91ca42c53182d3ae9c298468d5a374280adf1ba137261d541b899807c2713dc78c3e1a540fa1fdebc278924ce"
+
+[update]
+[update.modrinth]
+mod-id = "6z01GnNz"
+version = "7Sn0LZxI"

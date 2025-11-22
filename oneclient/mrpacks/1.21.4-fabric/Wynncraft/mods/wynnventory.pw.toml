@@ -1,0 +1,16 @@
+id = "CORVJbiT"
+enabled = true
+hidden = false
+name = "Wynnventory"
+filename = "Wynnventory-v1.3.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CORVJbiT/versions/nndWMIVu/Wynnventory-v1.3.7.jar"
+hash-format = "sha512"
+hash = "c90264c6063aae5454f0c67055ad56e3af3e459f0562cbc051817717111d9eae39d4b335a0f5c7a084d12b8390471c5d64ecb819773b4f47f97ade6a9f3cb7ec"
+
+[update]
+[update.modrinth]
+mod-id = "CORVJbiT"
+version = "nndWMIVu"

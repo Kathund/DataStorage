@@ -1,0 +1,16 @@
+id = "lIQY64qr"
+enabled = true
+hidden = false
+name = "TipTapShow"
+filename = "tiptapshow-1.6.2+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lIQY64qr/versions/Pu2jDHZy/tiptapshow-1.6.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "de0bc3856efb930c682069fc1ecc07c8758e58285afae48732015e7cf2aa0c302948eb7586d56e47c54caa35d8d8e38c0d780ab016731df57e01b9dc31ca1eb5"
+
+[update]
+[update.modrinth]
+mod-id = "lIQY64qr"
+version = "Pu2jDHZy"

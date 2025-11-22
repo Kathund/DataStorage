@@ -1,0 +1,16 @@
+id = "fumdX4iT"
+enabled = true
+hidden = false
+name = "JsonEM"
+filename = "jsonem-0.3+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fumdX4iT/versions/S0yibg27/jsonem-0.3%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "031cd32ec80c78445bfd90610dbd87f8dacdbbe2a8d5d5042d03a8e3866a3bf9323ebbe342a92939775af414c013221140bc371bb1e81d36073fe7ea48fd1f2e"
+
+[update]
+[update.modrinth]
+mod-id = "fumdX4iT"
+version = "S0yibg27"

@@ -1,0 +1,18 @@
+name = "OneClient 1.21.4 Fabric [Wynncraft]"
+author = "Polyfrost"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+poly-format = "1"
+enabled = false
+category = "Wynncraft"
+id = "yynncraft-1.21.4-fabric"
+update-url = "oneclient/generated/wynncraft-1.21.4-fabric.mrpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c492780c11c79e69ce1fd77eb2df32f4ab995a9ac896f0ac6570107964014e89"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.21.4"

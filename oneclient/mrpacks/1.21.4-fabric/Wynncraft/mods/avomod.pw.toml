@@ -1,0 +1,16 @@
+id = "OlMc3Y8p"
+enabled = true
+hidden = false
+name = "AvoMod"
+filename = "avomod2-1.4.21+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OlMc3Y8p/versions/2ET0Hx8f/avomod2-1.4.21%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "6760a9e0cc92d48050e86ca48bfe7d74aef3a0c2800aa8eb9d276407778392193c5f5c29920b7fa8d359ac7bf9fb3b6b5cb1aae7cdc0ea8655bf7bf3b052da69"
+
+[update]
+[update.modrinth]
+mod-id = "OlMc3Y8p"
+version = "2ET0Hx8f"

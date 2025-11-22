@@ -1,0 +1,16 @@
+id = "iw8lsmHb"
+enabled = true
+hidden = false
+name = "Island Utils"
+filename = "IslandUtils-1.7.2+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iw8lsmHb/versions/AzCocIew/IslandUtils-1.7.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "4a1e7270a1db286c2d32fd9e896fac65b7d7cbb4a44c8df9353b9f978e4f6f57c579dc8306809000b14ffad07f1a5cbb0034f332515edbd82b413baea3589247"
+
+[update]
+[update.modrinth]
+mod-id = "iw8lsmHb"
+version = "AzCocIew"

@@ -1,0 +1,16 @@
+id = "EMQzFaJ1"
+enabled = true
+hidden = false
+name = "fuy.gg"
+filename = "fuy.gg-loader-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EMQzFaJ1/versions/5tk7xA0p/fuy.gg-loader-1.0.0.jar"
+hash-format = "sha512"
+hash = "015cceebd92e11d96b688af7ba512e38594e7d6cc3593b5583b9c1d00702d90adec25f865944032bc67b92abcc01049ae7de66df96af3f1f8556e425180e9459"
+
+[update]
+[update.modrinth]
+mod-id = "EMQzFaJ1"
+version = "5tk7xA0p"

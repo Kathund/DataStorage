@@ -1,0 +1,16 @@
+id = "IlGAhsOM"
+enabled = true
+hidden = false
+name = "Particle Tweaks"
+filename = "ParticleTweaks-fabric-2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IlGAhsOM/versions/4Gtfg4bi/ParticleTweaks-fabric-2.1.1.jar"
+hash-format = "sha512"
+hash = "87267722068c5250186663ed2766b79d4f76640a9cb2172233ebfe086dc15efc719a48f9277a281aee7ed3a4354b39819f7f5cd78ed9cff5cb8ac873b24d2350"
+
+[update]
+[update.modrinth]
+mod-id = "IlGAhsOM"
+version = "4Gtfg4bi"

@@ -1,0 +1,16 @@
+id = "Hn8Ot3qH"
+enabled = true
+hidden = false
+name = "Voices Of Wynn"
+filename = "Voices-of-Wynn-fabric-1.12.0-fabric+MC-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hn8Ot3qH/versions/YxXlYQyB/Voices-of-Wynn-fabric-1.12.0-fabric%2BMC-1.21.4.jar"
+hash-format = "sha512"
+hash = "838265138061502730fb8779d88d466c9d3b0d544f33c9f05f9ee608f6d38f22b88bad67c0e08f0f90753b21162cb73a98c8e158d7fc32165639e0db12207e77"
+
+[update]
+[update.modrinth]
+mod-id = "Hn8Ot3qH"
+version = "YxXlYQyB"

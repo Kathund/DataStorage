@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/avomod.pw.toml"
+hash = "9dbcb65cdb1ec894641eba05f595d5cce3d6d7fd33fe5f9def3ec465871de4ff"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b49d813500b830f30c87cf9f9ab271173d01322584ca1af7853bfe3f382f27ac"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0d29439c9167b9e04cc3ab93be5b15070d9b82bd2b9df4b1731fbf9b25cf998e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "67f7ea117117985b952b6d4194ad16155f500e6a7ef6d85b38ae6abbdb91318c"
+metafile = true
+
+[[files]]
+file = "mods/fuy_gg.pw.toml"
+hash = "cbcc4e781734f3da1101e2656aa04524741b1d16fd53a5201340455315e88b2c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "3d0c5ea49976537db08ca0fd85e68e35d9aef82fcf7f0f6a0787333474300bb1"
+metafile = true
+
+[[files]]
+file = "mods/showmemydps.pw.toml"
+hash = "a0f97703f77fa7643a41ca0d20f18d4e88dce69c08feb8aed169f6b834106a7d"
+metafile = true
+
+[[files]]
+file = "mods/vow.pw.toml"
+hash = "fed7b78be55d6b2d7c303364b1165b17d7a9e344d7678ddb9d014e37c126365e"
+metafile = true
+
+[[files]]
+file = "mods/wynnbuild.pw.toml"
+hash = "9e70f2f0aa29fa67bf3df0d0eb6960a878a5359c630d1573e9db37eabf4e605f"
+metafile = true
+
+[[files]]
+file = "mods/wynncraft-dynamic-weather.pw.toml"
+hash = "06dcf92aff08c8552206ea77b80ac28c0c1d694bd5cc199f7e270a8511fff369"
+metafile = true
+
+[[files]]
+file = "mods/wynncraft-spell-caster.pw.toml"
+hash = "d8e155c256e4358f71fec7d6e803500106c657044711818d3119052fa598a02e"
+metafile = true
+
+[[files]]
+file = "mods/wynntils.pw.toml"
+hash = "d0c71414c438c3209d9038a1927bf09037804191d36a43823cf738e6fc8d298e"
+metafile = true
+
+[[files]]
+file = "mods/wynnventory.pw.toml"
+hash = "6e57e90d26f8226c0fa8eda8845ddf8856e321a258fe6c374a81e65e2ac892ef"
+metafile = true

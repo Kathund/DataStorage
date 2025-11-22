@@ -1,0 +1,16 @@
+id = "dU5Gb9Ab"
+enabled = true
+hidden = false
+name = "Wynntils"
+filename = "wynntils-3.3.4-fabric+MC-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/YD2MNSoo/wynntils-3.3.4-fabric%2BMC-1.21.4.jar"
+hash-format = "sha512"
+hash = "07567f8db00ff5cfff647a181b26e3db10718243bad669ea5779031883a05553e0cc0aff2e81644dcfe481513caec2474e4f6ccd404666e5811c42625e4133a7"
+
+[update]
+[update.modrinth]
+mod-id = "dU5Gb9Ab"
+version = "YD2MNSoo"
