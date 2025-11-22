@@ -19,7 +19,9 @@ for (const version of versions) {
     const mods = fs.readdirSync(`./mrpacks/${version}/${bundle}/mods`);
     for (const mod of mods) {
       if (!mod.endsWith(".toml")) {
-        console.log(`${version}/${bundle} - Will not work because it contains a jar file`);
+        console.log(
+          `${version}/${bundle} - Will not work because it contains a jar file`
+        );
         return;
       }
       checkMod(`./mrpacks/${version}/${bundle}/mods/${mod}`);
