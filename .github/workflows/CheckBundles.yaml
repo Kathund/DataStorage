@@ -3,8 +3,6 @@ on:
   push:
     paths:
       - oneclient/**
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
