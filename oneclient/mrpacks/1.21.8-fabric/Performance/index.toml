@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/modenfix.pw.toml"
-hash = "20c0e457ab713c7797a541c53697b21b41bdd250341f91035a79d573ca2840fb"
+hash = "4d823a03894ddfd10cfb64d7ee77321a03d8799ed5ff04b5ac02985612223e67"
 metafile = true
 
 [[files]]
