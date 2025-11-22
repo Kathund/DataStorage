@@ -6,12 +6,12 @@ filename = "LevelHead-8.2.3 (1.8.9).jar"
 side = "both"
 
 [overrides]
-icon = "https://avatars.githubusercontent.com/u/47190839?s=200&v=4"
+icon = "https://github.com/Kathund/SkyblockClient-REPO/blob/feat/clean/v1/icons/sk1er.png?raw=true"
 name = "Level Head"
 authors = ["Sk1er LLC"]
 description = "Displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab."
 
 [download]
-url = "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/v1/mods/files/LevelHead-8.2.3%20(1.8.9).jar"
+url = "https://static.sk1er.club/repo/mods/level_head/8.2.1/1.8.9/LevelHead-8.2.1%20(1.8.9).jar"
 hash-format = "sha256"
 hash = "5053dfcfeea7139d84bf322b97900088c767a485e732d625296523f4ec4efb7f"

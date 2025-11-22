@@ -22,6 +22,9 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
           cache: "pnpm"
 
+      - name: Move into the oneclient dir
+        run: cd oneclient
+
       - name: Install node dependencies
         run: pnpm i
 
@@ -41,6 +44,9 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: "pnpm"
+
+      - name: Move into the oneclient dir
+        run: cd oneclient
 
       - name: Install node dependencies
         run: pnpm i

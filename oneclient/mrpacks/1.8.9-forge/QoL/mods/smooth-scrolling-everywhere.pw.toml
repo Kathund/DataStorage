@@ -12,6 +12,6 @@ authors = ["shedaniel"]
 description = "Adds smooth scrolling to every list."
 
 [download]
-url = "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/v1/mods/files/smooth-scrolling-everywhere-1.2.jar"
+url = "https://mediafilez.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar"
 hash-format = "sha256"
 hash = "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06"

@@ -51,6 +51,4 @@ individual file / package additional fields:
 - PvP
 - Utility
 
-Packwiz will only bundle mods that are hosted on github into the json file that oneclient uses to parse. Mods that aren't hosted on github get added into a folder and not added to that json file
-
 Modrinth API won't accpet a mod download url that has it's version name in it and not the version id. Please run the check.js file to check for this stuff and other issues
