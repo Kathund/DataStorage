@@ -6,6 +6,6 @@ filename = "modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
 side = "client"
 
 [download]
-url = "https://github.com/Kathund/SkyblockClient-REPO/raw/refs/heads/a/v1/mods/files/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
+url = "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/v1/mods/files/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
 hash-format = "sha512"
 hash = "70c9c5f21f6a5bee54fc9e32b1c0a505cc63cf49f9eced7c1457d9317df0dd455d2842fe27decbf4bc14fb94a7e380439d4c321f4a8f0549c5450871816dd8d8"
