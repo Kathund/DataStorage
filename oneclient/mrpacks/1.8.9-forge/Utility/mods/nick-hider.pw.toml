@@ -1,4 +1,4 @@
-id = "utility"
+id = "nick_hider"
 enabled = true
 hidden = false
 name = "Nick Hider"
@@ -6,7 +6,7 @@ filename = "Nick Hider-6.0.2 (1.8.9).jar"
 side = "both"
 
 [overrides]
-icon = "https://github.com/Kathund/SkyblockClient-REPO/blob/feat/clean/v1/icons/sk1er.png?raw=true"
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/sk1er.png?raw=true"
 name = "Nick Hider"
 authors = ["Sk1er LLC"]
 description = "Hide names/skins on Hypixel to avoid being stream-sniped."

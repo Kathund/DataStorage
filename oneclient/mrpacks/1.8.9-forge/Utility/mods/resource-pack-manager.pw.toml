@@ -1,4 +1,4 @@
-id = "utility"
+id = "resourcepackmanager"
 enabled = true
 hidden = false
 name = "Resource Pack Manager"

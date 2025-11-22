@@ -1,4 +1,4 @@
-id = "utility"
+id = "blockoverlay"
 enabled = true
 hidden = false
 name = "Block Overlay"
