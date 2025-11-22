@@ -42,4 +42,4 @@ replay_*.log
 oneclient/Linux-64-bit-x86.zip
 oneclient/packwiz
 packwiz.exe
-oneclient/node_modules
+node_modules

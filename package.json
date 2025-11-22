@@ -4,7 +4,7 @@
   "description": "used to manage the checks.js file",
   "main": "index.js",
   "scripts": {
-    "check": "node check.js"
+    "check": "node oneclient/check.js"
   },
   "keywords": [],
   "author": "",

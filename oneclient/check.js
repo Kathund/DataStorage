@@ -61,11 +61,11 @@ function checkBundle(bundlePath, bundle) {
   }
 }
 
-const versions = fs.readdirSync("./mrpacks/");
+const versions = fs.readdirSync("./oneclient/mrpacks/");
 for (const version of versions) {
-  const bundles = fs.readdirSync(`./mrpacks/${version}`);
+  const bundles = fs.readdirSync(`./oneclient/mrpacks/${version}`);
   for (const bundle of bundles) {
-    checkBundle(`./mrpacks/${version}/${bundle}`, bundle);
+    checkBundle(`./oneclient/mrpacks/${version}/${bundle}`, bundle);
   }
 }
 
