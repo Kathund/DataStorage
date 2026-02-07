@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/animatium.pw.toml"
-hash = "6e480e5f7658a8139b16e7493f8cd33bbe695d10f84fc63d4e6191a67b550c42"
+hash = "fc79d87617736b9fbec919351627081bd8e8f9440ef0c9da9d158cf6d052b907"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "09c9be9ebe431cfa8f80b921f17d2fd84947c754ff3eaa6fcf61c79470728fdf"
+hash = "a4057e630b5e100bbf8752e78656bb7a261101f355e0ac12383af7978cc40f40"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "11e043bf815b74a2cf1ca826e550e6e9aa10aea4830f853e49760a299df4f752"
+hash = "e1e2303e604a7745414065f2fd6edbb8754fd8c35419cb00b44266c7f708080c"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
+hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypixelautogg.pw.toml"
-hash = "5378bdb84fa219bcdd76718c5539a22fb443f3441d721fc91c27f805dc2eb4ad"
+hash = "d3b089f13d6018ddf3af0be6ddf238279a64270e94bf46deeafe44fd0db13792"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c4e6161d6670b5a508ab683f59f792ea265043d31608e4d7923977e239df5853"
+hash = "3c3fb7b871d3bf383fe2e7115dfa2400d2e73f03d330c922742acf2da6c422f0"
 metafile = true
 
 [[files]]
@@ -112,17 +112,17 @@ metafile = true
 
 [[files]]
 file = "mods/rei-search-bar-calculations.pw.toml"
-hash = "7878cb066e70a052ea5fed1ad3f827b182db6214ae4589caf892c48b93ea507a"
+hash = "cf8639db0c326fe1d1c691c711fb79e0bc9f841d49259e14b68422e88f5d35bd"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "824c6168bd8b313f19c171186b4bccf5d8556c54d1642302dd4b5e6e2ba0eb00"
+hash = "48902aca1d72f5fbbe0b967f5e91618e80d0c105e7f5ec5a88c78dbc492c60be"
 metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "6bc856b9161651d5e236022f11116d5334c2231ec14755a726ee00e9ae90cc40"
+hash = "fcf33de193e65ff5acee06575b61ddb9a39dbef7b321501c3842b843b9f26c85"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "eae7c1fcb9f1fa128fc8f09f2c8eca3e512ad77ba1d3b7c2bd1ec64c33b20a01"
+hash = "775bd41e8a3be263564dcd9d4d8db7087bcb7cdadf5271c1e3ea467102d2fb02"
 metafile = true
 
 [[files]]
@@ -177,10 +177,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "96121ed08a26a8415c16686e73fe8f7a4e4591c61552d772aa3784a4f8d3c5bb"
+hash = "e3208008761017ce98dabe50c37fad65f56ece476d6b678b7d1eb9eab39bc1a1"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "2ca97b27bad39520f5d4828f0fcafc66a3c34632197e239c2b44578667d50e77"
+hash = "d7735415779e360da2aa9f9c833070f5ed2e9940ec88acddd8f646c4ddf3f6b8"
 metafile = true

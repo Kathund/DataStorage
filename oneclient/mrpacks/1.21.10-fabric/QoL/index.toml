@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "c8743eef6bb8e24147f19f70b26bd4ea453ea8a15171e22a4207e9640f587ca2"
+hash = "5f6a5a191fde2815d0260bbae751365436209bb6c9cd238369de84caf5b2d840"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b8ba252c0e42677a95b39ecebbe2827886cc462d59318c805da06d9ee1db5b63"
+hash = "6d3127453d78722457836123865e0e061ea97a13bea5d24b9722483080e724fd"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/crosshairtweaks.pw.toml"
-hash = "40956fecfb70901bd9c116846a378072c564fe73c349e81f5497cd5f3c2408d7"
+hash = "efd3b8e29e4841dfdc797c7e70e6d1d85bc936ab9e5ba49451c730e88246ef83"
 metafile = true
 
 [[files]]
@@ -96,17 +96,17 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "36a3e9e62aef28dd527a7eaed3c7d4cd31228c428e7fd5843a2fda9a912fd2e5"
+hash = "a6006adcd33bcbee7f3efe42addff0f399b2394efe2f3d2abfcc3c226aac1e45"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "96b197e7abf658222587123c88dc88178a56b204c077c1adb5928cbbf8732a67"
+hash = "1194dbc0d6af77e12d3b90666f96254a506aec0f82574566e15082f9d73bd92b"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c78c797847768b16de7c16a926ef875a38cd3f7ab82cbac68b1ea27a2e96ef18"
+hash = "9190abb4859be4502d4d5e9248df335a3379c0f53f9725438d4897d6aab02c21"
 metafile = true
 
 [[files]]
@@ -121,12 +121,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
+hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
 metafile = true
 
 [[files]]
 file = "mods/firmament-packet-fix.pw.toml"
-hash = "bdd9f0697416a350ac31eeb3bfea58722e523d53dfaedc3b7f1df0a4789fcf7d"
+hash = "a156c09bb370238b6bb7f6195de105486e0e1b9d634ef22d8f2710e797e0fbdd"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "96c92e0eac23036793e4ee7688a0664b8c18edb76e5880c32bb8a952ddd616fe"
+hash = "94828f99c4d81ae74fdc9daa04a45bb1bdc030d89140f265c323e9f9d03f2d9e"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/nametagtweaks.pw.toml"
-hash = "97566aaccdfc634c5a7c88149af6488b6f5f0d104607cfa1a67f1d0295f595f9"
+hash = "12db84340253d7fbe62eaf6e9b3af4b7d457c8469b23b787ec974787c77b72ba"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-nick-hider.pw.toml"
-hash = "7c44d3863086071ea70356ee008a942606752eba3e1ebec9ed4446117e326b77"
+hash = "9c1edf2bcbf1372e937bc5b101135ad27d1960744e0738e8be528877132987e8"
 metafile = true
 
 [[files]]
@@ -336,12 +336,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "fb21faaabc67d77cec8fb81b409e79a10a4e324d5967268e139482cc649b85a4"
+hash = "b41620c613b8955282f95366e1b2722e397e3b65a0a624eaa877177b6764d4a4"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1835ab4857c382df281b868b2def3ae1bdf822ac8555a8a18440c84ecb8c1b69"
+hash = "64bb3496588aa28a49fa60f981b1b25af24e135705ec53a4043e7c39e138d1d7"
 metafile = true
 
 [[files]]

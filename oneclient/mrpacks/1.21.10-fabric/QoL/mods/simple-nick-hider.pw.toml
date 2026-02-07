@@ -2,15 +2,15 @@ id = "90Bv2iLE"
 enabled = true
 hidden = false
 name = "Simple Nick Hider"
-filename = "simplenickhider-0.1.3+1.21.10-fabric.jar"
+filename = "simplenickhider-0.2.0+1.21.10-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/90Bv2iLE/versions/Uoym3BUM/simplenickhider-0.1.3%2B1.21.10-fabric.jar"
+url = "https://cdn.modrinth.com/data/90Bv2iLE/versions/CW6Z5nGm/simplenickhider-0.2.0%2B1.21.10-fabric.jar"
 hash-format = "sha512"
-hash = "c378a185bb7869a84d10b6a08f611dfbd32c778506bde2dd5b653d5754ed97c40064a43640b9504036b4dfa613cbfdf1493280c4b209dad723d57ec62f127e12"
+hash = "69878bba60231857357e4a20cf34359b160c082a0478796d29c7a0f7ea7fffef182e6215f57dacdc049c1cd4b6cc9adadf9c40193da2831bda9331440310bfc0"
 
 [update]
 [update.modrinth]
 mod-id = "90Bv2iLE"
-version = "Uoym3BUM"
+version = "CW6Z5nGm"

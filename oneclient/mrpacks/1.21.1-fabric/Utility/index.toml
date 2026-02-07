@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "c1be4c38ca23abbec61a529e3f303db9ca52928c508168b0cd51cdc84d3d30b6"
+hash = "d7e862814b817f85b06c1644d73464398c3d9bfdb4826991adad24226cb11840"
 metafile = true
 
 [[files]]
@@ -47,17 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "11e043bf815b74a2cf1ca826e550e6e9aa10aea4830f853e49760a299df4f752"
+hash = "e1e2303e604a7745414065f2fd6edbb8754fd8c35419cb00b44266c7f708080c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d6fa16a0824b7bec0b2e3438fba995dbcddb6586bdec71e7aeca5bf58e199a88"
+hash = "71779fc9899faeb98a9a86440e6fd19bd766f5df246ea3d1c95edd1db7e52be1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
+hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c8cc43757a1eb91c60fc61dec1bd68da4bb18034fb0f54f523d585ac6f5187f8"
+hash = "20a0aa411adf8f9ca018ec87e091911ea7dc22bdf882a9be62e19c52eb688077"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "a90dc4f4cfd8025ba9b2c6c2eb9ab3a44efe07125344d97a5d2187e176a6f01f"
+hash = "75923b6cc33f6caa6d5189dd47f93633a6ef8e2cfc3b12794e53760639bd5883"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a0c82d0cb02883133d34c0a14afacdeb2fbb51ad883937aed3547146e2f4783e"
+hash = "fdc0ad5b25e53922bfb9324547bbd1ba6f093f5c203a99e09ed623575bbde113"
 metafile = true
 
 [[files]]
@@ -142,10 +142,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "cff1e44974ed93fb60101173bddf5bd52f6ff72a4de55ceacec82af5fd903a1d"
+hash = "f58d19dbd7d1ffe8d4b38f29d4ac0bd84a2c3b32ddb1cfe4eabab5eb02ee5d9f"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "3d0da2ae5693bd1bf35b93e0e89aed3611a01a646f54c1625d158a60703592e5"
+hash = "5d83bbb59f39d0001659cd91d7106259e9fbc1b7d2be4d94fe0fd60798dcec03"
 metafile = true

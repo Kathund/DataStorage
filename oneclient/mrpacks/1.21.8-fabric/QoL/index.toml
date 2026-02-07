@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "36a3e9e62aef28dd527a7eaed3c7d4cd31228c428e7fd5843a2fda9a912fd2e5"
+hash = "a6006adcd33bcbee7f3efe42addff0f399b2394efe2f3d2abfcc3c226aac1e45"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a9e2dd8c0765780684783ed4413bba1ffbbf757a431323d1d0b7480329f1fb98"
+hash = "689ac564c525e0012a17bbba810c8dcd4262ff718fdf0d1611043be7d391e213"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-nick-hider.pw.toml"
-hash = "d7c58434f1abd7170a937ab0d594a7f78068c6cda83276f04526a2fe0831a1b1"
+hash = "7931e2b3d22f15710a2653d0f90d6ce096fa16e31aa08ca4ce7cbe1a593dcbdf"
 metafile = true
 
 [[files]]

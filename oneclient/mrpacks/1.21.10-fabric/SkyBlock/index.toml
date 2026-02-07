@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
+hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
 metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "f89cdc9699550561c43575fa26f40910e9ebf5f7cf2f3cf68ada9ef053a8da85"
+hash = "e8a0d012c303fad97a4fd77b115acb82e037a054fb445c5b38e90877892634f0"
 metafile = true
 
 [[files]]
@@ -32,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "f53219abccd3ebda7415111e5c9d44a38fe165a0457df2109c6b73b867b150cf"
+hash = "c0a2bfdb1a74ed437d24b41041c16f45563129842ed16c084021d93e95aa8c49"
 metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "10c33cf5a4abd64fa3ac9eb69a9d3ee871e9b39bfd0adb65dffd41b7ad3af3ae"
+hash = "c0be3dcc6b295f11dc0d6d9deb1bd929df9b461f2bc80c5e53aa911e97ce85ab"
 metafile = true
 
 [[files]]
@@ -47,22 +47,22 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "b7a10c6a172ff1a5b9e382bacc810e71c5a332f0592f29d2ee72a92cc2d51836"
+hash = "fb4cb4fd85b81adca50dafd1a86a70da86b7041bce1075c493549381d1881485"
 metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "e70b133163b262b0cbe5973ce58cceaa92c541b6baf22ab32deae85327cc9343"
+hash = "823521413b9047841ac097529e8774b93b40843c0e362ced9b8db474f97df4e6"
 metafile = true
 
 [[files]]
 file = "mods/skycubed.pw.toml"
-hash = "baa4748d1e4d0d1f6859bbb609424c1a10a6ac972aa8f9a84e231ded0f9ddc59"
+hash = "7450a136a8bc1c81b0a00cfabc1ececd2dfb27c3f9c56471973611dc2521ce07"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "e301ab1cf6df91916e5c33fa96957e798a69ad43e79707237b1c3f3553495518"
+hash = "52545c38e1a011bddfa035e995eae9905cde53cba1f6e91cf3a81a7b02191189"
 metafile = true
 
 [[files]]
@@ -72,5 +72,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "96121ed08a26a8415c16686e73fe8f7a4e4591c61552d772aa3784a4f8d3c5bb"
+hash = "e3208008761017ce98dabe50c37fad65f56ece476d6b678b7d1eb9eab39bc1a1"
 metafile = true

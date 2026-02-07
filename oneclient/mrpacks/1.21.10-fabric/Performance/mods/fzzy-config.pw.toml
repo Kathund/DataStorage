@@ -2,15 +2,15 @@ id = "hYykXjDp"
 enabled = true
 hidden = true
 name = "Fzzy Config"
-filename = "fzzy_config-0.7.4-fix2+1.21.9.jar"
+filename = "fzzy_config-0.7.6+1.21.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hYykXjDp/versions/m06eJ6OT/fzzy_config-0.7.4-fix2%2B1.21.9.jar"
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/CBSbrUlV/fzzy_config-0.7.6%2B1.21.9.jar"
 hash-format = "sha512"
-hash = "39518767ae32ba7263cf047f80bcc1c5792df5b0605f75ce7f75bb8e2e8a21ebb5bfaba9ccc6df5a2517163e47ec844db2cfeec573ff99e1177f673ab795c670"
+hash = "fce235b2e4a87257715564077ac66033cd34709319b9723d7c34ea6abb240583c27caf5b64a3da3578497d61725679f9caf8d06afe4300c7d8522b88bff49733"
 
 [update]
 [update.modrinth]
 mod-id = "hYykXjDp"
-version = "m06eJ6OT"
+version = "CBSbrUlV"

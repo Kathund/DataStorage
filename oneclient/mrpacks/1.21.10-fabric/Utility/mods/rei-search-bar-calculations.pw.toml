@@ -2,15 +2,15 @@ id = "42tSijuX"
 enabled = true
 hidden = false
 name = "REI Search Bar Calculations"
-filename = "rei-search-bar-calculations-1.0.2+1.21.6-8.jar"
+filename = "rei-search-bar-calculations-1.1.0+1.21.6-10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/42tSijuX/versions/CJnnBTK3/rei-search-bar-calculations-1.0.2%2B1.21.6-8.jar"
+url = "https://cdn.modrinth.com/data/42tSijuX/versions/aWCIqrZA/rei-search-bar-calculations-1.1.0%2B1.21.6-10.jar"
 hash-format = "sha512"
-hash = "1842ee882d1cfc1305c61c9f80ebe82b9d34e516e28cc70ad6dfda97dfec30fff2468c16977ea505bbd1b7c29dac1bc376cf9574c0952271998ec768acafc051"
+hash = "ef083520621fd63333ee00aede861e57686627614d37e7c2be0a0abaf450fc0c58ac8f9b1c4e3c8ac3a79fc76a96573bad2f366a5245f01ccffb13edc2eaba8c"
 
 [update]
 [update.modrinth]
 mod-id = "42tSijuX"
-version = "CJnnBTK3"
+version = "aWCIqrZA"
