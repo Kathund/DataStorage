@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "553b04e02ea58e67b230d6c6eac96ae0e5fe7a257af8e4cd76b852b3cdc0c586"
+hash = "ab8ed6bf9cbfe35cdf392f46faa0f48dd4fc8a9869cf08ed1a9b59b9712f89be"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a8d3e37ed2deff7eafce0f7032727a1d22e822696f150cef036b5ab3be523a3d"
+hash = "c086f624a1538a1e8ea1d5f36a1ef75f68746be086955401fc7a0cec3910c6fb"
 metafile = true
 
 [[files]]
@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4c79823570ea888e83e8998fffc112c6efca7f52e59171518c7492fddc3b81b8"
+hash = "8ecf0a7ad9620c211710218e3376ef7fe1efcc9e69217b24f6cf5014e25518c1"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8e8d80d64e5e37c5d8e883cd6736da08287c84d625fe36348ba7f62682203c8d"
+hash = "aad7486d784c2274e24f60edd30e2c45bb6e56b9a1eb7fb78d74a45b9bd89ea4"
 metafile = true
 
 [[files]]
@@ -131,12 +131,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
+hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
 metafile = true
 
 [[files]]
 file = "mods/firmament-packet-fix.pw.toml"
-hash = "bdd9f0697416a350ac31eeb3bfea58722e523d53dfaedc3b7f1df0a4789fcf7d"
+hash = "3c7b15cdedbcf1620247e696ea4c571bb89a5a2e45fd3e3a46140bef660ca7a2"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "be5556c6b3bb9bdb538e5971be0fc6269cd1b70056093c8d00976c6cc3a5b52e"
+hash = "32c01fbad8ba133a8cf9447595eabec1c57069102be11378a7722d81182eb6a4"
 metafile = true
 
 [[files]]
@@ -341,12 +341,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "db18ff8a6f60c338fa7cc66da953fa5db2408bb119543df303fb10314aeee990"
+hash = "33377901e12cbd7c4bac6dd56a5d3a45180b6969052cd8de295ff74c50908d69"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6338645211edf9e1d8d740304cbf565c0d0441d223a03b6ca51305a5f1533373"
+hash = "5d6c8e3f1c8cd5cd073a73f2b09edcf4a8002350ad1c5ccaba640e86540f6458"
 metafile = true
 
 [[files]]

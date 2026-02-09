@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "2982ba68df71ad328abfe668c6cbc73e0712d75a37c7685ec293096dc46b962c"
+hash = "d6032aa4605e55ae33f2dad987b792d8de34b296b7561ca054aa2cb701c23d0b"
 metafile = true
 
 [[files]]
@@ -187,5 +187,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "d7735415779e360da2aa9f9c833070f5ed2e9940ec88acddd8f646c4ddf3f6b8"
+hash = "2dbd942770fba4515e2a69bac73f6effb7535a4dd32883b6cbb60dd8d24b1c22"
 metafile = true
