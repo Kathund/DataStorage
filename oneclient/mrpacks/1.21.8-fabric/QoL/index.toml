@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "51fede9c41431704bd4204f7a2bd1f8a40530769eb6bfea018920aa71a9588f9"
+hash = "6defae448d28411d7a51d5daf05ea9535ae4cb515fabc2a43877b6f2e3382cc1"
 metafile = true
 
 [[files]]
@@ -106,17 +106,17 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "a6006adcd33bcbee7f3efe42addff0f399b2394efe2f3d2abfcc3c226aac1e45"
+hash = "60722287e7a1f3b7ca9aba9893ecf0db65822cf0af055bb44d423a79508c09ad"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8ecf0a7ad9620c211710218e3376ef7fe1efcc9e69217b24f6cf5014e25518c1"
+hash = "c4951b081c74a73e6b9f4ce9df9cb4468b5023a6e45609da2af9f1704dd68a4c"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "aad7486d784c2274e24f60edd30e2c45bb6e56b9a1eb7fb78d74a45b9bd89ea4"
+hash = "5ffca8c9a56ce5d83d68292c53745fad1e87ec1900ac14706285c3f2088751ca"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "32c01fbad8ba133a8cf9447595eabec1c57069102be11378a7722d81182eb6a4"
+hash = "4de259d767773ec3414c3cd868aaf4856f72d85aad0bceb994ad2d672aa54f5b"
 metafile = true
 
 [[files]]

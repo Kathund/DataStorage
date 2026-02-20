@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "77ae21ed913af83ad741b7c54d3d6a9201cbc891dd6d2e0741d77c21f3ae0b7f"
+hash = "4a77c4c057c6344ab1479c87dd9405007d96a416c04701c493eb6f9d602dff93"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e1e2303e604a7745414065f2fd6edbb8754fd8c35419cb00b44266c7f708080c"
+hash = "e918132ab17f31eacc1a055d54bba6ee59a208a5f43af7a89730b39698968ec7"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "775bd41e8a3be263564dcd9d4d8db7087bcb7cdadf5271c1e3ea467102d2fb02"
+hash = "ba8fe5a604cfad57b3effb136f559997a60cc0f670952812e17867d9873426f1"
 metafile = true
 
 [[files]]

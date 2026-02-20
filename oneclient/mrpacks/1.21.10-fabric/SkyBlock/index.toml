@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "de330877c14e841ca7c0c1c1274a6830aaf2615ef1951adc95496f14cb2bc456"
+hash = "e309c98fecf00e982d583a9ea9b4f7098b4ae304ce8323f41540fc67c9b5b8a1"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "c00780257593433797cea09823cacfac8777256d68583b350fe1bd34567a5101"
+hash = "af48d9d555c838cafce002110b3b1338db8b8083ee4712c55e93a14a6012f978"
 metafile = true
 
 [[files]]
