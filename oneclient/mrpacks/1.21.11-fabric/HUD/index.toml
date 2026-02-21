@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
-hash = "7b459feedff6d51df5654c789e4241092db8d88716aaa639dd2a29e6a63206a5"
+hash = "8efbb45ea6e576a6c8f2d08c5e0e33e7e372a09da33f7dfced25d11e14f92a6f"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
-hash = "2ca8c2112816957bca608d210c6f9cc0ae3e9d06e0bd00bfd83eed9b31434d25"
+hash = "4f7eece98ebe6eccba3811cb425f6de2fa4d0a44fdd3e4763de6517b27405e3f"
 metafile = true
 
 [[files]]

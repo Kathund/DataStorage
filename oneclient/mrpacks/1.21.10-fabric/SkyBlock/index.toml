@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-warp-menu.pw.toml"
-hash = "042142d252e8edaf9560e7b88a73619cdd47792fa04694ee99444196436345f1"
+hash = "4e6e3d8ead7ad1a786d874e634ef263d1be96ba3c29fa40f2d166d1252f18b46"
 metafile = true
 
 [[files]]
 file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "c0a2bfdb1a74ed437d24b41041c16f45563129842ed16c084021d93e95aa8c49"
+hash = "db2ae2560ac50c5310b05812419119a771baa9035bac8ed8d04b5f3089d7743a"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "de330877c14e841ca7c0c1c1274a6830aaf2615ef1951adc95496f14cb2bc456"
+hash = "e309c98fecf00e982d583a9ea9b4f7098b4ae304ce8323f41540fc67c9b5b8a1"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "c00780257593433797cea09823cacfac8777256d68583b350fe1bd34567a5101"
+hash = "af48d9d555c838cafce002110b3b1338db8b8083ee4712c55e93a14a6012f978"
 metafile = true
 
 [[files]]

@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e7ad6ee627e419198198bb4a9883e8f7f8b78f17a26d148a2d8652731b9efab3"
+hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "e0a5061283c7084745ec0594b235ff33b1fd199af023a2dd6ba56f5d2fd26ee9"
+hash = "a6be0d290ca6903988d05df68e1548f6cf21f8203608ab7c2bddad00f558e2ee"
 metafile = true
 
 [[files]]
@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "21e81416d9e8bc206bd933eb7ae2004fd7a6ecf6739dbb1766fad6b9b296b9d8"
+hash = "c775399f55b3ad3b4f5ff8c1086282e6ddcf0208734a98de97efb2c1a848f9e3"
 metafile = true
 
 [[files]]
 file = "mods/lazy-language-loader.pw.toml"
-hash = "39abe310e4efd71360d1273c021ea6e33fdc39a4d48e34d8a39989cc03bb9d66"
+hash = "d283bbdc7382d5ea7a90c084dcbc20f2d5db6dc6c9fc31718e9a8bb7204af828"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/log-cleaner.pw.toml"
-hash = "ee38b691291acc163d76aa0b602c82af0f1bac571ed189bcbb81cd7fb4ea19be"
+hash = "6a11f24debd05247a8df11859d78ace5c775fd82e8b8ae27b1ce3a8bc73234b1"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/optipainting-updated.pw.toml"
-hash = "1136c6e06f915a55649e3fbcb681fd869238c5e82d25f97cbf3fb315e6d442b6"
+hash = "cac130f0cdb7221ee6f4d64edf0b98fbd96313f9b179d7f74a15bc0ccd80c7f1"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "cba4003d52d83dbe2166ae9a0693d7e74e8b31ead3dae69ab4def1aa2a195db5"
+hash = "a6cc9de613fdc2b276b9316526241ffe40d86787d2cc0d73c298c66d2e667b7c"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/serverpingerfixer.pw.toml"
-hash = "5a113012ddf7470cc7897d5828a6dc398a6b17f4464169274f606a6d6390fb4a"
+hash = "dce1b022c9baf13e0ce2d8d4767b0b1f558d87582fbd96a8e1867f394b926890"
 metafile = true
 
 [[files]]

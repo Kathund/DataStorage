@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "e034c3a2ba68f373d9a582b6bf46cea8c6c1b699fd94c48ac978573b7b8d1164"
+hash = "8a121a2a495bd7f6d78924b26928452e762f518d88de31a6aa9dba64c1406e71"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "26e4807d9f3ca4f282654daad0692f69cab98ecd905b89ea382d7b3ae14f1ba7"
+hash = "8d261b7dbca886e0491e1f4e5ca083384fb00f65d7e9de6a70459b2c90cfbe1c"
 metafile = true
 
 [[files]]
@@ -87,17 +87,17 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "a6006adcd33bcbee7f3efe42addff0f399b2394efe2f3d2abfcc3c226aac1e45"
+hash = "60722287e7a1f3b7ca9aba9893ecf0db65822cf0af055bb44d423a79508c09ad"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2aa1f761a7069c2e202cb80f2a872ba3b0a738f034ce4d8959d3b4fc0485b5a7"
+hash = "35dd3a21b1c4e1b719223636669182e1224b6d8c2fb79cf2c9beb94b9ae2b6f5"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "906a69285d1a0b88825504e7b9a93a4079f3212f46e5878f75c85d87917f3bd8"
+hash = "8cf0e0bec52f9a62404727e141153e63b84962f0880d1b5c8debabfab5702456"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "9ec07ff70cb6f5c824f8147cacd4ebcb33060d43079f1cef2db06599f420df4e"
+hash = "b214e9472f4ed1051e0a5dcf74d768ccb8b2911ebe64a664a1516037d7c5d43d"
 metafile = true
 
 [[files]]

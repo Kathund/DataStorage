@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "5f6a5a191fde2815d0260bbae751365436209bb6c9cd238369de84caf5b2d840"
+hash = "f982807379d8012881c633a49f2df6a864b6b8c489b3393e5b56c70dc3e45b23"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6d3127453d78722457836123865e0e061ea97a13bea5d24b9722483080e724fd"
+hash = "03d88f6f85cb0f1b693d5fa0011dc87382a0af3526bc20d21e0d348f8d584bed"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "258e188c8f3038dfd88c7241ff3315bc2aa05dc7a944f040fca1a5611c5948b0"
+hash = "f970823279d7227eb25daeee04822777c0abd4f0965ff2bffa2357fad9fe7ab9"
 metafile = true
 
 [[files]]
@@ -96,17 +96,17 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "a6006adcd33bcbee7f3efe42addff0f399b2394efe2f3d2abfcc3c226aac1e45"
+hash = "60722287e7a1f3b7ca9aba9893ecf0db65822cf0af055bb44d423a79508c09ad"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1194dbc0d6af77e12d3b90666f96254a506aec0f82574566e15082f9d73bd92b"
+hash = "ef1763d4a134fb0ebece9c3900461cd34f730ab50355c6aae242f6982003307a"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9190abb4859be4502d4d5e9248df335a3379c0f53f9725438d4897d6aab02c21"
+hash = "9e5d401798e701b6dc8cf81f9671b6d147dd94fe4159e5ee7b7a3af63b31b0f9"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "0b9d5e20cfad8d740dd5c12d71dbb06fa5ea530e200c037c7f865249f2436b23"
+hash = "983f41d84443e4c49feba806b4b670de1927326cf4d3ccfc0e326b517e89aedf"
 metafile = true
 
 [[files]]
