@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "animatium_utility.json"
+hash = "013bb87a1d68fdba744417b9591ed98e5e4c21c131868525967bca5e3a152c37"
+
+[[files]]
 file = "config/animatium.json"
 hash = "d89b7ae345905cbad1bea445648c6812de635e69ce6d74d76b3ee9a5e0ebc683"
 
