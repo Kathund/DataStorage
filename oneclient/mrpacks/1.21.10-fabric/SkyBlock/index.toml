@@ -69,3 +69,28 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "e3208008761017ce98dabe50c37fad65f56ece476d6b678b7d1eb9eab39bc1a1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/bazaar-graph-fix.pw.toml"
+hash = "feb3a290dd748fadbb77c5a4c1a53e3ea799c964e8d0cc31420d5a9070516333"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-mode-skyblock.pw.toml"
+hash = "1888dcb3e8d7102f92447df7c6b54ed5156de590c5ee0a8c359d96109c379e19"
+metafile = true
+
+[[files]]
+file = "resourcepacks/furfsky-reborn.pw.toml"
+hash = "60a8528fd3f4debf440a952381c889bf4fa695877667646c74d06a58753b8171"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hypixel-plus.pw.toml"
+hash = "9b6427a062f756899e340705a0e7b4ecf0c36c8c4ab833b6bb67ffd6b24be581"
+metafile = true
+
+[[files]]
+file = "resourcepacks/skyblock-dark-ui.pw.toml"
+hash = "8d97dfe63cbd6819d3b1aad38ec8ff89f2ac89a389f4f92cd835ba6f083537d0"
+metafile = true

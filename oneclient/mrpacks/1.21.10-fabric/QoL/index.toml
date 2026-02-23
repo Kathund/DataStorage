@@ -348,3 +348,18 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "3cf9454db44da1445fe9e55aa8e4a488faac04e5d22b4189425f3ce0572671f1"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "d2a5ab1ce39eaba6368ab927280bf36a4487ee8d4d614b411a22814df5da2f7a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "482fdbf07912604af128c6bddbd47309b094100deb71b43ab27a6ae18bd56f1e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "ce28a9661864b61137f595f47ac89297f0872d1e814f0c41ee5f4ee3d5a71d25"
+metafile = true
