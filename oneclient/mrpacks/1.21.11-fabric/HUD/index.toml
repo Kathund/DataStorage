@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventoryhudplus.pw.toml"
-hash = "5222c2b37ebc6074973d82029ee228e40e3dfc8c8ab606b9ee1bc112b0dc39e1"
+hash = "6313123f213cda114b7500c5f06b069158fed22f2f2b3f69879eddedcb09b777"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/ukus-armor-hud.pw.toml"
-hash = "385939d7ad658d8587a7a39f92feca35f998ba7795766588eb4e109c40b8b20d"
+hash = "234c106c9adcee0e7ed1ed7500b39fbffc8c7d790384222a0e9f89eea33c9561"
 metafile = true
 
 [[files]]

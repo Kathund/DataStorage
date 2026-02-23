@@ -13,6 +13,10 @@ file = "config/customscoreboard/config.jsonc"
 hash = "7bef58b3bb4952056ca1690c82a072b3cc1acc23a9b309bfe607abc525947dd0"
 
 [[files]]
+file = "config/one-click-join"
+hash = "824b9b328245c5e74d87380a1e41c2a20f206b20f3144cd5551c4fabcfd0a55c"
+
+[[files]]
 file = "config/skyhanni/config.json"
 hash = "0e9ea478eac394baa8ba87fa528bdcd9e13f2d0cbde05514793a34b523e2c252"
 

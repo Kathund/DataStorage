@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1f450b1df03f577fb2d34745cf43dca40553b17973c0e90fd2b30712e71e6ca9"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "bbf28818ac59c19583f03d516a86b508e7da7a591c28d071c4e53effd4865bf6"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "ca2147ccc6cd2a9d8ee484dd796ae8e1c5de42551c9366f2d09915bbe1c0002e"
 metafile = true
@@ -28,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/modern-warp-menu.pw.toml"
 hash = "86669467353a4b1db9df5ba18baf99afd9d56faded54d29db74393134b8deae2"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "bf2c053158e6eb1c471160c47328615a2c62f7b358886793b6fda97d7e9d351f"
 metafile = true
 
 [[files]]
