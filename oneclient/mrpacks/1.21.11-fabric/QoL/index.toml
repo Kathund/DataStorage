@@ -150,11 +150,6 @@ hash = "94546366fc21817124c0bd14bf120284af8932e003715494f6d2423ce222d023"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "26e47d11736b8d32991ec4ecd4ab9fea603d7597cbd737fd7b7b20760467f35f"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f4504187b6b7bea442fe8afd03818657ba5f28757e80afbaa2fbf160540f689b"
 metafile = true
@@ -187,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/numerical-enchantments.pw.toml"
 hash = "93d23b02f3f9332665894105c7626a1e11a260ed08e2087462aeedb6f8d88e3b"
-metafile = true
-
-[[files]]
-file = "mods/one-click-join.pw.toml"
-hash = "5ae3038167b0a5b6bf351e249324f30c37ee9b6d82ca6847debde9853d5555d4"
 metafile = true
 
 [[files]]

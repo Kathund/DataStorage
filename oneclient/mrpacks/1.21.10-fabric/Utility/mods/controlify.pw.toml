@@ -1,5 +1,5 @@
 id = "DOUdJVEm"
-enabled = true
+enabled = false
 hidden = false
 name = "Controlify (Controller support)"
 filename = "controlify-3.0.0-beta.2+1.21.10-fabric.jar"
