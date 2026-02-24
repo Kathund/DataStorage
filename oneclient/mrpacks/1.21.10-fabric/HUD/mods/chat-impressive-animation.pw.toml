@@ -1,6 +1,6 @@
 id = "DnL1AGAI"
 enabled = true
-hidden = true
+hidden = false
 name = "Chat Impressive Animation"
 filename = "ChatImpressiveAnimation-fabric-1.5.0+mc1.21.10.jar"
 side = "client"

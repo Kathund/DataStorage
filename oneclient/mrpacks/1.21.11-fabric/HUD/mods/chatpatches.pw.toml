@@ -1,6 +1,6 @@
 id = "MOqt4Z5n"
 enabled = true
-hidden = true
+hidden = false
 name = "Chat Patches"
 filename = "chatpatches-8.0-alpha.7+1.21.11-fabric.jar"
 side = "client"

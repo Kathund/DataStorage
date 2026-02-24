@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "5e8b8edae34ebc0bb64a3941efcfffdb2e918e7a54f0d5f1cd3ec05f7640c8ac"
+hash = "2be8708c48474a7e7308102e09d088793dd92747e384922b57a2b5a86bab5641"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/numerical-enchantments.pw.toml"
-hash = "0d621b7e114b6685a43ef086b001766075eecea1f6463c322aab5bd4ab9bf7ce"
+hash = "93d23b02f3f9332665894105c7626a1e11a260ed08e2087462aeedb6f8d88e3b"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "443d7dba41cb7d637d547972594fe31b94ae2516a93e066e6580052043506117"
+hash = "36044ab399f0a85c5bf90aa2bc28e0bf4fcb451e759983f39d54832a2cdd56e2"
 metafile = true
 
 [[files]]

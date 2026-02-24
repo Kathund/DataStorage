@@ -1,6 +1,6 @@
 id = "Kw7Sm3Xf"
 enabled = true
-hidden = true
+hidden = false
 name = "Noxesium"
 filename = "noxesium-2.3.3.jar"
 side = "client"

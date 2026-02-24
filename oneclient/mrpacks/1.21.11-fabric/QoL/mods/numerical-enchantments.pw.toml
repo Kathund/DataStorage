@@ -1,6 +1,6 @@
 id = "HeyHGg62"
 enabled = true
-hidden = true
+hidden = false
 name = "Numerical Enchantments"
 filename = "numericalenchantments-1.0.1+1.21.1-fabric.jar"
 side = "client"

@@ -12,12 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-impressive-animation.pw.toml"
-hash = "bf91fcb3ec1c891d18b9c7443220f3dc463775a8607b6c9b2ef58a9c65020123"
+hash = "5fcf3d45970db310f68130f8383e97357ad1899d45995104003b7a27560b761f"
 metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "4f6557ded10a6c2c3d8e09f8a7328ccc6ace0363b6c172e3f16ae6f241f27949"
+hash = "3dd4488dba106c72efa25ba22934287d7823c50d671d40cfa77dbd80c5353651"
 metafile = true
 
 [[files]]

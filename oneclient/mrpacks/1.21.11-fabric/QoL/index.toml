@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/numerical-enchantments.pw.toml"
-hash = "0d621b7e114b6685a43ef086b001766075eecea1f6463c322aab5bd4ab9bf7ce"
+hash = "93d23b02f3f9332665894105c7626a1e11a260ed08e2087462aeedb6f8d88e3b"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "1b3d3e75ecdddc40fd913844421ff66ee3bdaeb2e12aee72f4c9b0df888718b7"
+hash = "aabc3115b6b59c076a580386f6ab81813d3238b0723a1b6dc5761fff63c0d9be"
 metafile = true
 
 [[files]]

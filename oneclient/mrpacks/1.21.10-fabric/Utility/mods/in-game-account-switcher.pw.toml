@@ -1,6 +1,6 @@
 id = "cudtvDnd"
 enabled = true
-hidden = true
+hidden = false
 name = "In-Game Account Switcher"
 filename = "IAS-9.0.6-alpha.1+1.21.10-fabric.jar"
 side = "client"

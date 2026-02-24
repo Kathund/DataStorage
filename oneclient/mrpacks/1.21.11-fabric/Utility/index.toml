@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "525030fc4677151b7c3b84ef692f6d482d2419ac4928d3cef32f025fa376c384"
+hash = "354beeb181ea0278921960023772fb6a5ce11b5d9bef656335f4fd2d2ce6e756"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "e329f465cb05c26097357ba085ddf9e1768aca230e6802529316251047556ff6"
+hash = "719cb7f719f8c4c672e5c83779d06b8091901525848899796f0558f4a0a4aad6"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "b5c338b0e8476f01f6ca4c9445b46b4634d51fd03d6f0b6e676de28ee8ca77c3"
+hash = "3d22391d697b39f61a5844e236a8e911d5404e076d457438972d77335d63f665"
 metafile = true
 
 [[files]]
