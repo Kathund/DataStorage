@@ -21,6 +21,10 @@ file = "config/skyhanni/config.json"
 hash = "0e9ea478eac394baa8ba87fa528bdcd9e13f2d0cbde05514793a34b523e2c252"
 
 [[files]]
+file = "data/fabric_default_resource_packs.json"
+hash = "30a0b4f6b3ebc10d2a515b774ba51f3f2dd14e9bf40fca835c8c133640493312"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "1e8673ac87db89b84cb1bb8712cb403899f2dc3d9ec69c84167966350c6400ad"
 metafile = true
