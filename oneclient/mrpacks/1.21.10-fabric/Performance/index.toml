@@ -135,11 +135,6 @@ hash = "6a11f24debd05247a8df11859d78ace5c775fd82e8b8ae27b1ce3a8bc73234b1"
 metafile = true
 
 [[files]]
-file = "mods/metalrender.pw.toml"
-hash = "7c8e7259d27d82e1fcc1592d6834d5c62cb1d042accc6dec217fd7d80093096b"
-metafile = true
-
-[[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "499c5e6cd3e6e7e7bcdb8ab4031353bebe883686e10a7d5f2ec4f2e4d05cd6e5"
 metafile = true
