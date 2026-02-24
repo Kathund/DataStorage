@@ -1,0 +1,16 @@
+id = "V2fEL3PE"
+enabled = true
+hidden = false
+name = "MetalRender"
+filename = "metalrender-v0.1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V2fEL3PE/versions/P2aqzYS5/metalrender-v0.1.6.jar"
+hash-format = "sha512"
+hash = "bd375d3c6b94279e05e4fe7d638987a9fb51d07daffbd289f057d5ae3e313ec4677c0b01ececf0e1534d85c8be022480ded4b49c8d19a8e43fc528115421c256"
+
+[update]
+[update.modrinth]
+mod-id = "V2fEL3PE"
+version = "P2aqzYS5"

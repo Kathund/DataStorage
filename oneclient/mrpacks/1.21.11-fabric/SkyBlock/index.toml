@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/skycubed.pw.toml"
-hash = "e5a7bb9c3a8194fe455de6f6933da4c8cb6d0365c65da7780da2de3a45a6af1c"
+hash = "bace82d3e60fbb3630eac4f9efc536808d162cdf91463e1ea0c710dd593bcd38"
 metafile = true
 
 [[files]]

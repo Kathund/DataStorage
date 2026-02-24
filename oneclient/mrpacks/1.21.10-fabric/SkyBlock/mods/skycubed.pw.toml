@@ -1,6 +1,6 @@
 id = "znwUKvZc"
-enabled = true
-hidden = true
+enabled = false
+hidden = false
 name = "SkyCubed"
 filename = "SkyCubed-1.8.1-1.21.10.jar"
 side = "client"
