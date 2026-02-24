@@ -12,11 +12,15 @@
                 },
                 {
                     "minor_version": 10,
+                    "name": "The Copper Age",
+                    "art": "/versions/art/Copper_Age.png",
                     "loader": "fabric",
                     "tags": ["PvP", "SkyBlock", "Survival"]
                 },
                 {
                     "minor_version": 11,
+                    "name": "Mounts of Mayhem",
+                    "art": "/versions/art/Mounts_Mayhem.png",
                     "loader": "fabric",
                     "tags": ["PvP", "SkyBlock", "Survival"]
                 }
