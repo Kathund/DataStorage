@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "3cfbcb999d4bcf3a9c109d23f9f511210fba5f521dd9d797ef3598dba914ebae"
+hash = "f9ea0767a2ac4404363a3ff18b6eb66eaa95feb7080aad5a5e58e90bdd150b79"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/darkmodeskyblock.pw.toml"
-hash = "6cf818c416a34ee7182f931d68566c15e3f8bca4b6a70c51d08737c2cb4443c6"
+hash = "9a7855ffdce0933f0a83d547bf1cbe15ba245873aab38107378f56868a911e79"
 metafile = true
 
 [[files]]
