@@ -1,6 +1,6 @@
 id = "fuuu3xnx"
 enabled = true
-hidden = false
+hidden = true
 name = "Searchables"
 filename = "Searchables-fabric-1.21.11-1.0.2.jar"
 side = "client"
