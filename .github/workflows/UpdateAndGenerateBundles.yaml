@@ -1,5 +1,7 @@
 name: "Update and Generate Bundles"
 on:
+  schedule:
+    - cron: "0 0 * * *"
   push:
     paths:
       - oneclient/**
@@ -13,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     if: >-
       github.event_name == 'workflow_dispatch' ||
+      github.event_name == 'schedule' ||
       (github.event_name == 'push' &&
        github.ref_name == 'main' &&
        github.repository_id == '438157081')
