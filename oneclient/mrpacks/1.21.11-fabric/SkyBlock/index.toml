@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "2125dd59b56c75413684a3b5168f089c4a442b14cdf3b4c9b9712738cefb4b48"
+hash = "fc1564a0f94ebd45bff23aa07e0a4f2b69beb04ee0dff1ecb733ca6588e62933"
 metafile = true
 
 [[files]]
