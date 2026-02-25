@@ -65,11 +65,6 @@ hash = "2be8708c48474a7e7308102e09d088793dd92747e384922b57a2b5a86bab5641"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "c153c2f5686bc19b0655a2d753a6ff6668f1a3737a436d9a2238634b965380bd"
-metafile = true
-
-[[files]]
 file = "mods/crosshairtweaks.pw.toml"
 hash = "efd3b8e29e4841dfdc797c7e70e6d1d85bc936ab9e5ba49451c730e88246ef83"
 metafile = true
