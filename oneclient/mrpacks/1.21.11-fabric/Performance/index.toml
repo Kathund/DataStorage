@@ -160,6 +160,11 @@ hash = "cac130f0cdb7221ee6f4d64edf0b98fbd96313f9b179d7f74a15bc0ccd80c7f1"
 metafile = true
 
 [[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "de7c2d6f66a0a11ffbce10a7c745ca26f13703d2668feb695851835ef3368543"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c2f0a76886e9409e348eddadc9ca134b87ec4c692dfdf5965c61cb5bea142370"
 metafile = true
