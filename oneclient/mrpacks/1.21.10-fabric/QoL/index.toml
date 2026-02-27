@@ -135,6 +135,11 @@ hash = "c1f2a3de3583dfc64723e1415ca43dd4ec73dff15c3ba9f608aaf86f3b9e59c0"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk-v2.pw.toml"
+hash = "f77ad00d525cd75830ff047640a3c1b1aeb8f1199f2fcaf602a1c4ce16a00319"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "5d75fcca2b50cf123b7cca0706ff75ed74821d544cbf8e6f1a9fe8830195a9c0"
 metafile = true
