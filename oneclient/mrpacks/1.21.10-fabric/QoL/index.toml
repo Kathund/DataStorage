@@ -30,6 +30,11 @@ hash = "53e360245f8b4f2292191f9a8eeb20bafde4cdb5e38cd62bb9d16ca80a3c6374"
 metafile = true
 
 [[files]]
+file = "mods/black-bar-concealer.pw.toml"
+hash = "19d91a98d6a417f63b03f517ec38a5be1b4c450b5a8bf0841d78289a33c8691c"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "f982807379d8012881c633a49f2df6a864b6b8c489b3393e5b56c70dc3e45b23"
 metafile = true
