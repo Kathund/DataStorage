@@ -180,6 +180,11 @@ hash = "5b0d29129f8a63f9d565ce59de61ede12ac3f1c83befa13430b45f3fa1ccefe8"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "4ff1e551d7d0f0c0cf6068fa215a1afd63c66f688288e7c8fb59babd58e60065"
+metafile = true
+
+[[files]]
 file = "mods/notsoessential.pw.toml"
 hash = "78c50dfb4a64563c21a9716062112e5ec8aa79cc703e2945402d53ec0ad9b9dd"
 metafile = true
