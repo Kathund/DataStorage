@@ -50,6 +50,11 @@ hash = "9c22bad4f0d606f92ce105da00204c29aa2b356401cc5d1088f63bb02f90d351"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "bf0182f2af75dc5410d1e07ed5b4a4fc492e7555f30d69ee691383f1f46973b5"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "1016e9a0e9e72d5855556a02d968f08f9b0eb6b01e32625c7b585df639eda7da"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/sciophobia.pw.toml"
 hash = "c597d6945e6f508a01092197c2756866ad5707e031060f166884a914dc4f96b7"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-compression.pw.toml"
+hash = "90519e5630fba8a081d2d433b22355234347453a9d75a0ed54ba25e313a20634"
 metafile = true
 
 [[files]]

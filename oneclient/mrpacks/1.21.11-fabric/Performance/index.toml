@@ -50,6 +50,11 @@ hash = "bbf28818ac59c19583f03d516a86b508e7da7a591c28d071c4e53effd4865bf6"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "adc0672f4f4d4c6288a36d3a34fdd294ca962d9d12b79a333ac344433c7bb350"
+metafile = true
+
+[[files]]
 file = "mods/cull-fewer-leaves.pw.toml"
 hash = "69d4e2714cf39482863f198381211f84e5167ca8fbed9a202997f0a374732a8d"
 metafile = true
@@ -177,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/sciophobia.pw.toml"
 hash = "366b85d8ae1f6cf52f6e999ba80f18a5428e23bc18db7f3b482a6d3481633b50"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-compression.pw.toml"
+hash = "05c91834b63555feabb52ff3145fcabf67a4dcd65e3e47abe00e1f04249f0dc0"
 metafile = true
 
 [[files]]

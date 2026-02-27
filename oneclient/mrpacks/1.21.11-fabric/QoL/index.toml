@@ -30,6 +30,11 @@ hash = "51e05f70450310a8f893f2b44f99103bcb26a5bb9323fded221039b2eb925c62"
 metafile = true
 
 [[files]]
+file = "mods/black-bar-concealer.pw.toml"
+hash = "4179ab7808c1a11cbac8210bf36b326b3f5abd49025094c5ff4b62265e10d809"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "b065996c94b15f2b52bf944f4fccaf6fe2c6df8dd27c1667578ff62540a62939"
 metafile = true
@@ -130,6 +135,11 @@ hash = "c4b2f70f7f520a4854522e5e028265832fe2759c9dba3dba9c7eeb185fb8cbc6"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk-v2.pw.toml"
+hash = "f77ad00d525cd75830ff047640a3c1b1aeb8f1199f2fcaf602a1c4ce16a00319"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "99c250d5c3812b19b8114340d51cb5af63d92b5dec954be73b3c729dcf5cf3c9"
 metafile = true
@@ -167,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "c44b4b553fec482a711b65bfc692c4d83ebe616cddd53d70ea1a9d976380104b"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "4ff1e551d7d0f0c0cf6068fa215a1afd63c66f688288e7c8fb59babd58e60065"
 metafile = true
 
 [[files]]
